@@ -1,0 +1,17 @@
+.class-div{
+    width: 32vw;
+    height: 300px;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid yellowgreen;
+    border-radius: 20px;
+    background-color: rgb(123, 220, 250);
+    position: absolute;
+    left: 58vw;
+    top: 270px;
+
+}
+.textTwo{
+    color: whitesmoke;
+}

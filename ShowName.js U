@@ -1,0 +1,7 @@
+import React from 'react'
+function showName(){
+    return(
+        <h1>Hello</h1>
+    )
+}
+export default showName;

@@ -1,0 +1,33 @@
+body{
+  background-image: linear-gradient(to top rgb(255, 230, 230),white,rgb(128, 255 ,220));
+  background-size: cover;
+}
+
+p{
+  text-align: center;
+}
+h1{
+  text-shadow: 5px 5px rgb(4, 250, 216);
+  font-size: 2.5em;
+}
+.btn-contaiber{
+  display: flex;
+  justify-content: space-around;
+}
+.btn{
+  color: rgb(35, 228, 80);
+  background-color: rgb(120, 90, 203);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 40px;
+  border: none;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.btn:hover{
+  color: rgb(212, 212, 212);
+}
+
+.btn:active{
+  background-color: tomato;
+}
